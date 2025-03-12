@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Kennedy, an <a href="https://linkedin.com/in/kennedyadjei">IT Professional</a>☺</h1>
 
-<!--
-**Kadjei120/Kadjei120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Azure (Virtual Machine Setup & Configuration)</b>
+  - [Azure: Step By Step Guide - VM](https://github.com/joshmadakorcc/post-install-config)
+  - [Azure: Rescource Groups Creation](https://github.com/joshmadakorcc/ticket-lifecycle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/kadjei10
+[linkedin]: https://linkedin.com/in/kennedyadjei
+
