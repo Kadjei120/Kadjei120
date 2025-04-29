@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure (Virtual Machine Setup & Configuration)</b>
-  - [Azure: Step By Step Guide - VM](https://github.com/joshmadakorcc/post-install-config)
-  - [Azure: Rescource Groups Creation](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Azure: Step By Step Guide - VM](https://github.com/kadjei120/post-install-config)
+  - [Azure: Rescource Groups Creation](https://github.com/kadjei120/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
